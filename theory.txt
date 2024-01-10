@@ -1,0 +1,43 @@
+
+
+======Array=====
+
+var marks1 = 90;
+var marks2 = 80;
+var marks3 = 50;
+
+var marks = [12, 30, 20, 30, 30, 80];
+
+===============Types of Array============
+
+1. Index Array (1, 2, 3)
+2. Two Dimensional Array
+3. Associative Array
+
+=> Index Array (1D Array)
+
+let marks = [40, 50, 75, 35, 21]
+
+              0,   1,  2,  3,  4
+
+=> Two Dimensional Array
+ 
+ let 2D_array = [
+    ['Rahim', 'Karim', 'Bablu', 'Abdul Jobbar'],
+    ['Rubel', 'Shahin', 'Arif', 'Seyam'],
+    ['Utpol', 'Manik', 'Maruf', 'Mou'],
+ ]
+
+ =>Associative Array (Object Array)
+
+ let human = {
+    firstName: 'Abdul Karim', age: 23, accountBalance: 426547
+ }
+
+ key: value
+
+ //Loop.....
+
+ for (initialize; condition; increment/decrement){
+    
+ }
